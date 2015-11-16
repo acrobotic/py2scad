@@ -1,0 +1,20 @@
+############################ General ############################
+
+More code documentation and comments
+Remove unused attributes
+Remove excessive type enforcement
+Add routines to run OpenSCAD and produce output files
+consolidate objects?
+fix naming?
+How does scad animation work?
+
+############################# Will ##############################
+
+Implement lookup table function, this will be especiallly useful
+    for creating animations.
+
+############################## Ed ###############################
+
+Create unit-tests written for all modules
+Create more accessable examples (tutorial?)
+Add machinery for including/using scad library files

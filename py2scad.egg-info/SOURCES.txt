@@ -1,0 +1,17 @@
+README
+setup.py
+py2scad/__init__.py
+py2scad/base.py
+py2scad/highlevel.py
+py2scad/primitives.py
+py2scad/quat.py
+py2scad/stl_tools.py
+py2scad/transforms.py
+py2scad/utility.py
+py2scad.egg-info/PKG-INFO
+py2scad.egg-info/SOURCES.txt
+py2scad.egg-info/dependency_links.txt
+py2scad.egg-info/top_level.txt
+py2scad/tests/__init__.py
+py2scad/tests/base_test.py
+py2scad/tests/run_tests.py
